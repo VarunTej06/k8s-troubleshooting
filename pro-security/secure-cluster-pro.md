@@ -201,7 +201,7 @@ To scan images for vulnerabilities you can use simple commands like
 ## Cluster Monitoring
 Use tools like Kubernetes Audit Logs and security monitoring solutions to detect and respond to security threats in real-time.
 
-![Screenshot 2023-03-05 at 8 16 52 PM](https://user-images.githubusercontent.com/43399466/222967569-8b05f3e3-ead6-4943-b6ce-3db3af242a5a.png)
+![Cluster-Monitor](https://github.com/VarunTej06/k8s-troubleshooting/blob/main/pro-security/Cluster-Monitor.png)
 
 
 ## Upgrades
